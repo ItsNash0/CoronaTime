@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "com.nash0.coronatime"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.nash0.coronatime"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.nash0.coronatime"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.nash0.coronatime"
+    },
+    "cordova-plugin-wkwebview-file-xhr": {
+      "PACKAGE_NAME": "com.nash0.coronatime"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.nash0.coronatime"
+    }
+  }
+}
